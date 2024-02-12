@@ -1,6 +1,6 @@
 [ => show code](/demo.js) <br>
-[ => JavaScript demo list](https://github.com/born-kes/born-kes/tree/master/js/)
-[ => TypeScript demo list](https://github.com/born-kes/born-kes/tree/master/typescript/)
+[ <= JavaScript demo list](https://github.com/born-kes/born-kes/tree/master/js/) <br>
+[ <= TypeScript demo list](https://github.com/born-kes/born-kes/tree/master/typescript/) <br>
 
 ---
     /* GLOBAL */
@@ -165,3 +165,5 @@
     index: 2, icon: 😍
     index: 3, icon: 😇
     index: 4, icon: 😎
+
+[[ <= BACK]](javascript:history.back())
